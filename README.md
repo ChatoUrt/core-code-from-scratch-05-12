@@ -2,8 +2,12 @@
 
 ## ---Basic_Calculator---
 
+//Creo que parpadea por la calidad en la que el screen recorder está grabando
 
-https://user-images.githubusercontent.com/92037725/205799220-e26b6804-4a12-408f-bbc6-68ad492067f4.mp4
+
+
+
+https://user-images.githubusercontent.com/92037725/205806825-c1b31d09-5b39-4d73-97fb-aea25a4c3b60.mp4
 
 
 
